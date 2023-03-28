@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "642356637cca4fae72bd16fe"
+  },
+  "codigo": 1,
+  "nombre": "Producto 1",
+  "precio": 15
+},{
+  "_id": {
+    "$oid": "642356637cca4fae72bd16ff"
+  },
+  "codigo": 2,
+  "nombre": "Producto 2",
+  "precio": 29
+},{
+  "_id": {
+    "$oid": "642356637cca4fae72bd1700"
+  },
+  "codigo": 3,
+  "nombre": "Producto 3",
+  "precio": 199
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6423486f7cca4fae72bd16eb"
+  },
+  "codigo": 1,
+  "nombre": "Articulo 1",
+  "precio": 5.99,
+  "fabricante": {
+    "$oid": "6423472a7cca4fae72bd16e8"
+  }
+},{
+  "_id": {
+    "$oid": "6423486f7cca4fae72bd16ec"
+  },
+  "codigo": 2,
+  "nombre": "Articulo 2",
+  "precio": 20,
+  "fabricante": {
+    "$oid": "6423472a7cca4fae72bd16e9"
+  }
+},{
+  "_id": {
+    "$oid": "6423486f7cca4fae72bd16ed"
+  },
+  "codigo": 3,
+  "nombre": "Articulo 3",
+  "precio": 9.99,
+  "fabricante": {
+    "$oid": "6423472a7cca4fae72bd16ea"
+  }
+}]

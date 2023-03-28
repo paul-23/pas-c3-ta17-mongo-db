@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64237a5389148107a47ceb7c"
+  },
+  "num_serie": "ABCD",
+  "nombre": "Equipo de Laboratorio A",
+  "facultad": {
+    "$oid": "6423792089148107a47ceb76"
+  }
+},{
+  "_id": {
+    "$oid": "64237a7789148107a47ceb7d"
+  },
+  "num_serie": "EFGH",
+  "nombre": "Equipo de Laboratorio B",
+  "facultad": {
+    "$oid": "6423792089148107a47ceb77"
+  }
+}]

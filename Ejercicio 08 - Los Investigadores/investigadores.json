@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "642379e589148107a47ceb7a"
+  },
+  "dni": "12345678",
+  "nom_apels": "Juan Pérez",
+  "facultad": {
+    "$oid": "6423792089148107a47ceb76"
+  }
+},{
+  "_id": {
+    "$oid": "642379e589148107a47ceb7b"
+  },
+  "dni": "23456789",
+  "nom_apels": "María Gómez",
+  "facultad": {
+    "$oid": "6423792089148107a47ceb77"
+  }
+}]

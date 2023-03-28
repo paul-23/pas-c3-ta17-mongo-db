@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6422b1607cca4fae72bd16d6"
+  },
+  "Codigo": 1,
+  "Nombre": "Departamento 1",
+  "Presupuesto": 10000
+},{
+  "_id": {
+    "$oid": "6422b1607cca4fae72bd16d7"
+  },
+  "Codigo": 2,
+  "Nombre": "Departamento 2",
+  "Presupuesto": 20000
+},{
+  "_id": {
+    "$oid": "6422b1607cca4fae72bd16d8"
+  },
+  "Codigo": 3,
+  "Nombre": "Departamento 3",
+  "Presupuesto": 30000
+}]

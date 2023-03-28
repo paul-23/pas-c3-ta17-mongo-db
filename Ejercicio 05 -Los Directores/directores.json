@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "642350417cca4fae72bd16f2"
+  },
+  "dni": "12345678",
+  "nom_apels": "Luis Sanchez",
+  "dni_jefe": "",
+  "despacho": {
+    "$oid": "64234f127cca4fae72bd16ee"
+  }
+},{
+  "_id": {
+    "$oid": "642350ce7cca4fae72bd16f3"
+  },
+  "dni": "98765432",
+  "nom_apels": "Maria Garcia",
+  "dni_jefe": "12345678",
+  "despacho": {
+    "$oid": "64234f127cca4fae72bd16ef"
+  }
+},{
+  "_id": {
+    "$oid": "642350fc7cca4fae72bd16f4"
+  },
+  "dni": "45678921",
+  "nom_apels": "Juan Gonzalez",
+  "dni_jefe": "",
+  "despacho": {
+    "$oid": "64234f127cca4fae72bd16f0"
+  }
+}]

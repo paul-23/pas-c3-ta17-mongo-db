@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "642376d189148107a47ceb6d"
+  },
+  "dni": "12345678",
+  "nom_apels": "Paul Stanescu"
+},{
+  "_id": {
+    "$oid": "642376d789148107a47ceb6e"
+  },
+  "dni": "98765432",
+  "nom_apels": "Jose Marin"
+},{
+  "_id": {
+    "$oid": "642376dc89148107a47ceb6f"
+  },
+  "dni": "32156487",
+  "nom_apels": "Antonio Morato"
+}]

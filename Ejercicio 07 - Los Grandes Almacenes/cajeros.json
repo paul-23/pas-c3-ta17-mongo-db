@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "642357147cca4fae72bd1704"
+  },
+  "codigo": 1,
+  "nom_apels": "Juan Cajero"
+},{
+  "_id": {
+    "$oid": "642357147cca4fae72bd1705"
+  },
+  "codigo": 2,
+  "nom_apels": "Maria Cajera"
+},{
+  "_id": {
+    "$oid": "642357147cca4fae72bd1706"
+  },
+  "codigo": 3,
+  "nom_apels": "Manolo Cajero"
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6423792089148107a47ceb76"
+  },
+  "codigo": 1,
+  "nombre": "Facultad de Ingeniería"
+},{
+  "_id": {
+    "$oid": "6423792089148107a47ceb77"
+  },
+  "codigo": 2,
+  "nombre": "Facultad de Ciencias"
+}]

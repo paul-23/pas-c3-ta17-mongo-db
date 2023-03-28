@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6422bed97cca4fae72bd16e2"
+  },
+  "codigo": 1,
+  "nombre": "Fast and Furious",
+  "calificaciones_edad": 12
+},{
+  "_id": {
+    "$oid": "6422bed97cca4fae72bd16e3"
+  },
+  "codigo": 2,
+  "nombre": "Avatar: El Sentido del Agua",
+  "calificaciones_edad": 12
+},{
+  "_id": {
+    "$oid": "6422bed97cca4fae72bd16e4"
+  },
+  "codigo": 3,
+  "nombre": "El Gato con Botas",
+  "calificaciones_edad": 7
+}]
